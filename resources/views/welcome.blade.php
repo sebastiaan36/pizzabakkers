@@ -16,7 +16,7 @@
             font-family: "Pusss";
             font-size: 4rem;
             text-align: center;
-            letter-spacing: 0.01rem;
+            letter-spacing: 1.6;
             line-height: 1.1;
             margin-top: 2rem;
             margin-bottom: 1rem;
