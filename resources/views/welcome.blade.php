@@ -1,6 +1,15 @@
 <html>
 <head>
     <title>Leer je pizza</title>
+    //open full screen on android
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Leer je pizza">
+<meta name="theme-color" content="#131f5f">
+<meta name="description" content="Leer je pizza">
+<meta name="robots" content="index, follow">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         @font-face {
