@@ -41,7 +41,7 @@
 
             <label style="display: inline-block; background-color: #e2b9ae; padding: 5px; margin: 5px; border-radius: 5px">
 
-            <input id="{{ $ingredient->id }}" type="checkbox" name="ingredients[]" value="{{ $ingredient->id }}" >
+            <input style="vertical-align: bottom;" id="{{ $ingredient->id }}" type="checkbox" name="ingredients[]" value="{{ $ingredient->id }}" >
                 {{ $ingredient->name }}
 
             </label>
